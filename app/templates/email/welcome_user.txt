@@ -1,0 +1,4 @@
+Hi {{user.username}}
+Welcome to Pitch Master
+You have signed up for our application we hope that you will find it useful and enjoying.
+Pitch With us and become a Master too.
